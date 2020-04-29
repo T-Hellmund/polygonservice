@@ -5,5 +5,12 @@
 	{"id":4,"municipality":"Siebeldingen","inhabitants":900},
 	{"id":5,"municipality":"Birkweiler","inhabitants":1100},
 	{"id":6,"municipality":"Nußdorf","inhabitants":1550},
-	{"id":7,"municipality":"Godramstein","inhabitants":800}					
+	{"id":7,"municipality":"Godramstein","inhabitants":800},
+	{"id":8,"municipality":"Herxheim","inhabitants":1200},
+	{"id":9,"municipality":"Germersheim","inhabitants":3000},
+	{"id":10,"municipality":"Neupotz","inhabitants":43000},
+	{"id":11,"municipality":"Frankweiler","inhabitants":900},
+	{"id":12,"municipality":"Annweiler","inhabitants":1100},
+	{"id":13,"municipality":"Bad Dürkheim","inhabitants":1550},
+	{"id":14,"municipality":"Klingenmünster","inhabitants":800}				
 ]}
