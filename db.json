@@ -1,5 +1,13 @@
-{"municipalities":[
-{"id":1,"municipality":"Dalubian","inhabitants":635500, "gemoetry":{"type":"polygon", "coordinates": [
+{
+	"featureCollection": [
+		{
+			"type": "Feature",
+			"id": 1,
+			"municipality": "Dalubian",
+			"inhabitants": 635500,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							9.71054864555,
@@ -14,9 +22,17 @@
 							48.8210340670957
 						]
 					]
-				]	
-}},
-{"id":2,"municipality":"San Vicente","inhabitants":717571 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2,
+			"municipality": "San Vicente",
+			"inhabitants": 717571,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							9.7105486556918,
@@ -35,9 +51,17 @@
 							48.8203094647056
 						]
 					]
-				]	
-}},
-{"id":3,"municipality":"Valcheta","inhabitants":561179 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3,
+			"municipality": "Valcheta",
+			"inhabitants": 561179,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							10.135316289314205,
@@ -52,9 +76,17 @@
 							48.78964282462762
 						]
 					]
-				]	
-}},
-{"id":4,"municipality":"Sölvesborg","inhabitants":627762 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4,
+			"municipality": "Sölvesborg",
+			"inhabitants": 627762,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							10.135518952670847,
@@ -69,9 +101,17 @@
 							48.76465079305174
 						]
 					]
-				]	
-}},
-{"id":5,"municipality":"Oju","inhabitants":383399 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5,
+			"municipality": "Oju",
+			"inhabitants": 383399,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							9.710548645556918,
@@ -86,9 +126,17 @@
 							48.82030946447056
 						]
 					]
-				]	
-}},
-{"id":6,"municipality":"Orlando","inhabitants":336073 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6,
+			"municipality": "Orlando",
+			"inhabitants": 336073,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							9.710548645556918,
@@ -103,9 +151,17 @@
 							48.82030946447056
 						]
 					]
-				]	
-}},
-{"id":7,"municipality":"Mateus Leme","inhabitants":910398 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 7,
+			"municipality": "Mateus Leme",
+			"inhabitants": 910398,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							9.7105486456918,
@@ -124,9 +180,17 @@
 							48.820301231256
 						]
 					]
-				]	
-}},
-{"id":8,"municipality":"Fencheng","inhabitants":922251 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 8,
+			"municipality": "Fencheng",
+			"inhabitants": 922251,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							9.710548645556918,
@@ -141,16 +205,24 @@
 							48.821420340670957
 						]
 					]
-				]	
-}},
-{"id":9,"municipality":"Jaffna","inhabitants":466666 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 9,
+			"municipality": "Jaffna",
+			"inhabitants": 466666,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							9.719884564556918,
 							48.82828121223407
 						],
 						[
-							9.7131432320278064,
+							9.713143232027808,
 							48.82159225844409
 						],
 						[
@@ -158,9 +230,17 @@
 							48.82142532670957
 						]
 					]
-				]	
-}},
-{"id":10,"municipality":"Bangus Kulon","inhabitants":14450 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 10,
+			"municipality": "Bangus Kulon",
+			"inhabitants": 14450,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							9.710548998944518,
@@ -175,9 +255,17 @@
 							48.82144568970957
 						]
 					]
-				]	
-}},
-{"id":11,"municipality":"Maunatlala","inhabitants":265740 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 11,
+			"municipality": "Maunatlala",
+			"inhabitants": 265740,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							9.710548645556918,
@@ -192,9 +280,17 @@
 							48.821420340670957
 						]
 					]
-				]	
-}},
-{"id":12,"municipality":"Ceres","inhabitants":327794 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 12,
+			"municipality": "Ceres",
+			"inhabitants": 327794,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							9.987848645556918,
@@ -209,9 +305,17 @@
 							48.82030946447056
 						]
 					]
-				]	
-}},
-{"id":13,"municipality":"Paris 09","inhabitants":747960 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 13,
+			"municipality": "Paris 09",
+			"inhabitants": 747960,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							9.710548645556918,
@@ -226,81 +330,17 @@
 							48.821420340670957
 						]
 					]
-				]	
-}},
-{"id":14,"municipality":"Bang Ban","inhabitants":92379 "gemoetry":{"type":"polygon", "coordinates": [
-					[
-						[
-							9.710548645556918,
-							48.82828334775407
-						],
-						[
-							9.713136320278064,
-							48.82159225844409
-						],
-						[
-							9.716816547808106,
-							48.821420340670957
-						],
-						[
-							9.713606564474042,
-							48.82030946447056
-						]
-					]
-				]	
-}},
-{"id":15,"municipality":"Skýros","inhabitants":518467 "gemoetry":{"type":"polygon", "coordinates": [
-					[
-						[
-							9.710548645556918,
-							48.82828334775407
-						],
-						[
-							9.713136320278064,
-							48.82159225844409
-						],
-						[
-							9.716816547808106,
-							48.821420340670957
-						]
-					]
-				]	
-}},
-{"id":16,"municipality":"Huitang","inhabitants":190491 "gemoetry":{"type":"polygon", "coordinates": [
-					[
-						[
-							9.710548645556918,
-							48.82828334775407
-						],
-						[
-							9.713136320278064,
-							48.82159225844409
-						],
-						[
-							9.716816547808106,
-							48.821420340670957
-						]
-					]
-				]	
-}},
-{"id":17,"municipality":"Gobernador Gálvez","inhabitants":206315 "gemoetry":{"type":"polygon", "coordinates": [
-					[
-						[
-							9.710548645556918,
-							48.82828334775407
-						],
-						[
-							9.713136320278064,
-							48.82159225844409
-						],
-						[
-							9.716816547808106,
-							48.821420340670957
-						]
-					]
-				]	
-}},
-{"id":18,"municipality":"Kaabong","inhabitants":781865 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 14,
+			"municipality": "Bang Ban",
+			"inhabitants": 92379,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							9.710548645556918,
@@ -319,25 +359,92 @@
 							48.82030946447056
 						]
 					]
-				]	
-}},
-{"id":19,"municipality":"Bonavista","inhabitants":334029 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15,
+			"municipality": "Skýros",
+			"inhabitants": 518467,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
-[
-							9.709689372891546,
-							48.77898255982074
+						[
+							9.710548645556918,
+							48.82828334775407
 						],
 						[
-							9.6842816474068,
-							48.77742313994153
+							9.713136320278064,
+							48.82159225844409
 						],
 						[
-							9.657881375824149,
-							48.770409231101059
+							9.716816547808106,
+							48.821420340670957
 						]
-				]	
-}},
-{"id":20,"municipality":"Alagoa Grande","inhabitants":646200 "gemoetry":{"type":"polygon", "coordinates": [
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 16,
+			"municipality": "Huitang",
+			"inhabitants": 190491,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
+					[
+						[
+							9.710548645556918,
+							48.82828334775407
+						],
+						[
+							9.713136320278064,
+							48.82159225844409
+						],
+						[
+							9.716816547808106,
+							48.821420340670957
+						]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 17,
+			"municipality": "Gobernador Gálvez",
+			"inhabitants": 206315,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
+					[
+						[
+							9.710548645556918,
+							48.82828334775407
+						],
+						[
+							9.713136320278064,
+							48.82159225844409
+						],
+						[
+							9.716816547808106,
+							48.821420340670957
+						]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 18,
+			"municipality": "Kaabong",
+			"inhabitants": 781865,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
 						[
 							9.710548645556918,
@@ -356,84 +463,85 @@
 							48.82030946447056
 						]
 					]
-				]	
-}},
-{"id":21,"municipality":"Sergelen","inhabitants":734109 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 19,
+			"municipality": "Bonavista",
+			"inhabitants": 334029,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
-						[
-							10.286848376631614,
-							48.82636277219586
-						],
-						[
-							10.301761225457076,
-							48.823503450076547
-						],
-						[
-							10.303887719015134,
-							48.81294905394541
-						],
-						[
-							10.315716214393128,
-							48.81778068006444
-						]
-				]	
-}},
-{"id":22,"municipality":"Cirangrang","inhabitants":485020 "gemoetry":{"type":"polygon", "coordinates": [
+						9.709689372891546,
+						48.77898255982074
+					],
 					[
-						[
-							10.335107350123299,
-							48.73399530460744
-						],
-						[
-							10.319046359782867,
-							48.731785043580988
-						],
-						[
-							10.331759656149615,
-							48.738891428069269
-						],
-						[
-							10.308453751245303,
-							48.73935731864045
-						]
-				]	
-}},
-{"id":23,"municipality":"Maasin","inhabitants":332502 "gemoetry":{"type":"polygon", "coordinates": [
+						9.6842816474068,
+						48.77742313994153
+					],
 					[
-						[
-							10.30851100424585,
-							48.74208227974613
-						],
-						[
-							10.292159551378182,
-							48.7470440115896
-						],
-						[
-							10.28787943696452,
-							48.75560626190094
-						],
-						[
-							10.275477555008227,
-							48.75512326960276
-						]
+						9.657881375824149,
+						48.770409231101059
 					]
-				]	
-}},
-{"id":24,"municipality":"San Fernando del Valle de Catamarca","inhabitants":127199 "gemoetry":{"type":"polygon", "coordinates": [
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 20,
+			"municipality": "Alagoa Grande",
+			"inhabitants": 646200,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
 					[
-						[
-							10.096771788700444,
-							48.80797580970061
-						],
-						[
-							10.106495992998174,
-							48.802623586404397
-						],
-						[
-							10.109916948479178,
-							48.80724022516305
-						]
+						9.710548645556918,
+						48.82828334775407
+					],
+					[
+						9.713136320278064,
+						48.82159225844409
+					],
+					[
+						9.716816547808106,
+						48.821420340670957
+					],
+					[
+						9.713606564474042,
+						48.82030946447056
 					]
-				]	
-}}
-]}
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 21,
+			"municipality": "Sergelen",
+			"inhabitants": 734109,
+			"geometry": {
+				"type": "polygon",
+				"coordinates": [
+					[
+						10.286848376631614,
+						48.82636277219586
+					],
+					[
+						10.301761225457076,
+						48.823503450076547
+					],
+					[
+						10.303887719015134,
+						48.81294905394541
+					],
+					[
+						10.315716214393128,
+						48.81778068006444
+					]
+				]
+			}
+		}
+	]
+}
